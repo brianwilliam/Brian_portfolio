@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 04 Sep 2023 11:48:01 at https://luique-jekyll.netlify.app/#resume-section +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://luique-jekyll.netlify.app/#resume-section -O1 "\\Mac\Home\Downloads\Web Templates\Brian Potfolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:49:32	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+11:49:32	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link primary/resume-section (from primary/primary)
+11:50:59	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/resume-section (from primary/primary)
+11:51:06	Error: 	"Not Found" (404) at link https://luique-jekyll.netlify.app/music/2020/08/05/by-spite-about/blog.html (from https://luique-jekyll.netlify.app/music/2020/08/05/by-spite-about/)
+11:51:06	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link https://glitche-jekyll-theme.disqus.com/embed.js (from https://luique-jekyll.netlify.app/music/2020/08/05/by-spite-about/)
+11:51:06	Error: 	"Not Found" (404) at link https://luique-jekyll.netlify.app/design/2020/07/20/two-before-arrow/blog.html (from https://luique-jekyll.netlify.app/design/2020/07/20/two-before-arrow/)
+11:51:06	Error: 	"Not Found" (404) at link https://luique-jekyll.netlify.app/mobile/2020/07/05/design-in-mobile/blog.html (from https://luique-jekyll.netlify.app/mobile/2020/07/05/design-in-mobile/)
+11:51:06	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/resume-section (from primary/primary)
+11:51:06	Error: 	"Not Found" (404) at link https://luique-jekyll.netlify.app/design/2020/06/15/by-spite-what/blog.html (from https://luique-jekyll.netlify.app/design/2020/06/15/by-spite-what/)
+11:51:06	Error: 	"Not Found" (404) at link https://luique-jekyll.netlify.app/video/music/2020/01/08/welcome-to-jekyll/blog.html (from https://luique-jekyll.netlify.app/video/music/2020/01/08/welcome-to-jekyll/)
+11:51:06	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://glitche-jekyll-theme.disqus.com/embed.js (from https://luique-jekyll.netlify.app/music/2020/08/05/by-spite-about/)
+11:51:06	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://glitche-jekyll-theme.disqus.com/embed.js (from https://luique-jekyll.netlify.app/music/2020/08/05/by-spite-about/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 5 seconds : 114 links scanned, 101 files written (9262455 bytes overall) [6644615 bytes received at 35916 bytes/sec], 4335735 bytes transferred using HTTP compression in 70 files, ratio 35%
+(8 errors, 4 warnings, 0 messages)
